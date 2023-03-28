@@ -46,4 +46,4 @@ function validaCPF(cpf) {
     }
 }
 
-console.log(validaCPF('189.269.220-14'))
+console.log(validaCPF('xxx.xxx.xxx-xx')) // insira um CPF
